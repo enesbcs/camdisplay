@@ -1,5 +1,3 @@
-Be a patron at [Patreon](https://www.patreon.com/enesbcs)
-
 # camdisplay
 OpenCV based RTSP/HTTP image display application in Python 3
 
